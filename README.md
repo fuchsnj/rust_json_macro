@@ -1,10 +1,6 @@
 JSON macro for Rust
 ====
 
-## Documentation
-
-http://bandwidthcom.github.io/rust-bandwidth
-
 ## Usage
 
 This will be uploaded to crates.io when it is more stable.
