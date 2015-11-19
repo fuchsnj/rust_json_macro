@@ -8,7 +8,7 @@ For now, add the following to your `Cargo.toml`
 
 ```toml
 [dependencies.json_macro]
-git = "https://github.com/fuchsnj/json_macro"
+git = "https://github.com/fuchsnj/rust_json_macro"
 ```
 
 and this to your crate root:
