@@ -1,5 +1,6 @@
 extern crate rustc_serialize;
 
+#[macro_export]
 macro_rules! json {
   (null) => (json::Null);
   ([ $($values:tt),* ]) => (json::List(vec![ $(json!($values)),* ]));
